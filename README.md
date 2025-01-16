@@ -1,5 +1,5 @@
 
-## <img align="center" alt="Coding test" width="300" height="150" src="https://github.com/caliskate/caliskate/blob/main/ezgif-1-8237e3e4e6.gif?raw=true">
+## <img align="center" alt="Coding test" width="300" height="150" src="https://github.com/caliskate/caliskate/blob/main/ezgif-1-93bd1ee1a4.gif?raw=true">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caliskate&layout=compact&theme=transparent)
 <!--
 **caliskate/caliskate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
