@@ -1,15 +1,14 @@
-[![MasterHead](https://github.com/caliskate/caliskate/blob/main/0b63101d12d999ccfdb9923c83576534.gif?raw=true)](https://github.com/caliskate)
+## Hi <img align="center" alt="Coding test" width="200" src="https://github.com/caliskate/caliskate/blob/main/0b63101d12d999ccfdb9923c83576534.gif?raw=true">
 
-## Hi there 👋
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/98/3b/63/983b63592a42295d638b4b3120df9cc8.gif">
+
 <!--
 **caliskate/caliskate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning machine learning with Python
+- 👯 I’m looking to collaborate on applied artificial intelligence
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
