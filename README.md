@@ -1,6 +1,6 @@
-<img align="center" alt="Coding test" width="300" height="15" src="https://github.com/caliskate/caliskate/blob/main/wavegif-ezgif.com-crop%20(1).gif?raw=true">
+<img align="center" alt="Coding test" width="300" height="10" src="https://github.com/caliskate/caliskate/blob/main/wavegif-ezgif.com-crop%20(1).gif?raw=true">
 <img align="center" alt="Coding test" width="300" height="150" src="https://github.com/caliskate/caliskate/blob/main/f2.gif?raw=true">
-<img align="center" alt="Coding test" width="300" height="15" src="https://github.com/caliskate/caliskate/blob/main/wavegif-ezgif.com-crop%20(2).gif?raw=true">
+<img align="center" alt="Coding test" width="300" height="10" src="https://github.com/caliskate/caliskate/blob/main/wavegif-ezgif.com-crop%20(2).gif?raw=true">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caliskate&layout=compact&theme=transparent)
 <!--
