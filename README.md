@@ -8,7 +8,7 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caliskate&layout=compact&theme=transparent)
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=caliskate&theme=transparent&border_radius=3.0&card_width=300&date_format=n/j/Y)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=caliskate&theme=transparent&border_radius=3.0&card_width=300&date_format=n/j/Y&currStreakLabel=42f58a&currStreakNum=42f58a)](https://git.io/streak-stats)
 
 <!--
 **caliskate/caliskate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
