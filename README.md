@@ -1,7 +1,7 @@
 <img align="center" width="600" height="10" src="https://github.com/caliskate/caliskate/blob/main/wavegif-ezgif.com-crop%20(1).gif?raw=true">
 <!-- # MJ Photo -->
-<img height=200 width="300" align="center" src="hhttps://cdn.midjourney.com/3e8efba8-6b15-4a07-882d-c2256f8c290d/0_0.png"/>  
-<!-- <img height=200 width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caliskate&layout=compact&langs_count=8&theme=transparent"/>  -->
+<img height=200 width="300" align="center" src="https://cdn.midjourney.com/3e8efba8-6b15-4a07-882d-c2256f8c290d/0_0.png"/>  
+
 <!-- # tool find -->
  <img height=200 align="center" src="https://github-readme-streak-stats-nine-dun.vercel.app?user=caliskate&theme=transparent&border_radius=3.0&card_width=250&date_format=n/j/Y&currStreakLabel=42f58a&currStreakNum=42f58a&card_height=200"/>
 
@@ -16,3 +16,7 @@
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://komarev.com/ghpvc/?username=caliskate&color=orange&style=plastic" alt="Visitor Count" style="display: block; margin: 0 auto;">
 </div>
+
+
+
+<!-- <img height=200 width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caliskate&layout=compact&langs_count=8&theme=transparent"/>  -->
