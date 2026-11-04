@@ -1,5 +1,5 @@
 <p align="center">
-<img width="600" height="100" src="https://raw.githubusercontent.com/caliskate/caliskate/main/img/b-top.gif" alt="Top Banner">
+<img width="600" height="10" src="https://raw.githubusercontent.com/caliskate/caliskate/main/img/b-top.gif" alt="Top Banner">
 </p>
 
 <p align="center">
@@ -7,10 +7,9 @@
  <img height="500" width="375" src="img/img4.png" />
 </p>
 
-<p align="center" width="600" height="10" src="img/b-bot.gif"/>
+<p align="center">
+<img width="600" height="10" src="https://raw.githubusercontent.com/caliskate/caliskate/main/img/b-bot.gif" alt="Top Banner">
 </p>
-
- <img height="500" width="375" src="img/b-bot.gif" />
 
 ## Languages & Tools: 
 <img src="https://img.shields.io/badge/Adafruit-000000.svg?style=for-the-badge&logo=Adafruit&logoColor=white"><img src="https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white"><img src="https://img.shields.io/badge/Autodesk-000000.svg?style=for-the-badge&logo=Autodesk&logoColor=white">
